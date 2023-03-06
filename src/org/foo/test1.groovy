@@ -1,5 +1,5 @@
 package org.foo
 
-class GlobalVars {
-    static String foo = "bar"
+public class GlobalVars {
+     String foo = "bar"
 }
