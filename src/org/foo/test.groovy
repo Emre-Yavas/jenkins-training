@@ -2,7 +2,7 @@ package org.foo
 
 public class test {
      
-     test(){
-          println "Succes"
+     def sayHi(String name){
+          echo "Hello ${name}"
      }
 }
