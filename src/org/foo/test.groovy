@@ -1,5 +1,8 @@
 package org.foo
 
 public class test {
-     def foo = "bar"
+     
+     test(){
+          println "Succes"
+     }
 }
