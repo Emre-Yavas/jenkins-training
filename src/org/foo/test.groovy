@@ -1,6 +1,6 @@
 package org.foo
 
-public class test {
+public class testa {
      
      test(){
           echo "Succes"
