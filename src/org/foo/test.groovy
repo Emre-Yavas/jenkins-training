@@ -1,5 +1,5 @@
 package org.foo
 
-public class Test {
+public class test {
      def foo = "bar"
 }
