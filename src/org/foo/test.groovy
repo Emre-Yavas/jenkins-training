@@ -2,7 +2,8 @@ package org.foo
 
 public class test {
      
-     def sayHi(String name){
-          println 'Hello ${name}'
-     }
+     private static Map<String, int>> eventMap = new HashMap<>()
+     eventMap.put("Emre",1)
+     
+     println(eventMap)
 }
