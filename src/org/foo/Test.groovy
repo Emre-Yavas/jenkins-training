@@ -1,7 +1,7 @@
 package org.foo
 
 public class Test  {
-     public static void publish(String eventName = "Raw"){
-          print 'Bu event ${eventName} !'
+     public static String publish(String eventName = "Raw"){
+          return 'Bu event ${eventName} !'
      }
 }
